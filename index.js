@@ -1,5 +1,5 @@
 const express = require('express')
-const HTTP_SERVER = express()
+const HTTP_SERVER = express() 
 const cors = require('cors')
 require('./dbconfig')
 

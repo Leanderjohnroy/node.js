@@ -4,4 +4,4 @@ const router = express()
 
 router.use('/api', require('./Route/route'))
 
-module.exports = router ;
+module.exports = router
